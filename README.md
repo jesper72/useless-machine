@@ -15,3 +15,4 @@ A simple useless machine source code for Arduino that uses the Servo library
 
 
 ## Wiring
+![Alt text](/Useless Machine Wiring.png)
